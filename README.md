@@ -1,10 +1,10 @@
-#Personal information java console 
+# Personal information java console 
    that uses heap structure 
 
 This program is a Java console called "Personal information", designed to manage and display information about people, such as their name, age, birthday, and relationship status.
 It uses a heap structure,implemented with a PriorityQueue to store and organize data efficiently based on age.
 
-#What it can do:
+# What it can do:
 1. Add Records: Users can add as many persons as    needed, and the heap will automatically sort them by age.
 2. Display Sorted Data: The program displays all persons sorted by age, using the heap structure to ensure efficient ordering.
 3. User-Friendly Interaction: The application provides a simple menu-based interface for adding data, viewing the sorted list, and exiting.
